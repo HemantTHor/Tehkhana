@@ -18,16 +18,19 @@ appEz addresses key concerns of enterprise and consume mobile applications in ef
 •	MMI (Mobilet Manager Interface) provides set of APIs that enables developer to leverage native capabilities exposed by mobile platforms from JavaScript layer
 
 •	Web Hosted build platform to take care of
+
     o	Platform specific Hybrid apps creation by wrapping web assets inside Secure Native Container app
     o	Hosts build for OTA downloads for sharing with in closed group
     
 •	Eclipse plug-in 
+
     o	Accelerate the pace of application development
     o	Assist the developer at many stages of development
     o	Ensure that the application complies with the guidelines laid down by the HADF
     o	Saves the developer from the hassles of configuring the properties and requisites for the native layer
     
 •	Facilitates creation of cross-platform apps with unified HTML structure 
+
     o	Built on open industry standards such as
     o	LESS for CSS programmability, 
     o	Bootstrap for page lay outing and dynamic structuring
